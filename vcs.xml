@@ -18,9 +18,13 @@
           <option name="url" value="git@192.168.1.19:/opt/git_repo/atomTrack.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.19:/opt/git_repo/create_package.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/ASE/01prj/NXP/programmer/prafull.sakharkar/Final/atomTrack/v002" />
+    <option name="cloneParentDir" value="/ASE/01prj/NXP/programmer/prafull.sakharkar/Final/GitRepo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
